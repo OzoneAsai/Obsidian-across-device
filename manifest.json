@@ -1,9 +1,9 @@
 {
-  "id": "system3-relay-local",
-  "name": "Relay Local",
-  "version": "0.7.7",
+  "id": "ozoneasai-relay",
+  "name": "OzoneAsai Relay",
+  "version": "0.1.0",
   "minAppVersion": "0.15.0",
-  "description": "Sync an Obsidian vault folder through a self-hosted Relay-compatible local server.",
-  "author": "Local Relay reconstruction",
+  "description": "Sync an Obsidian vault through OzoneAsai's self-hosted Relay fork.",
+  "author": "OzoneAsai",
   "isDesktopOnly": false
 }
