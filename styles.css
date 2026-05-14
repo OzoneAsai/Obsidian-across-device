@@ -312,3 +312,37 @@
 .is-phone .modal .setting-item-control button.system3-button {
 	width: auto !important;
 }
+
+/* Relay transfer / remote media extension */
+.relay-transfer-overview,
+.relay-server-storage-summary,
+.relay-stream-session-summary,
+.relay-remote-placeholder-view {
+	margin-bottom: 0.75rem;
+}
+
+.relay-transfer-table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.relay-transfer-table th,
+.relay-transfer-table td {
+	padding: 0.35rem 0.5rem;
+	border-bottom: 1px solid var(--background-modifier-border);
+	vertical-align: top;
+}
+
+.relay-transfer-table button,
+.relay-confirm-controls button,
+.relay-conflict-controls button,
+.relay-remote-placeholder-actions button {
+	margin-right: 0.35rem;
+	margin-bottom: 0.35rem;
+}
+
+.relay-remote-placeholder-view {
+	padding: 1rem;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 0.5rem;
+}
