@@ -1,7 +1,7 @@
 {
   "id": "ozoneasai-relay",
   "name": "OzoneAsai Relay",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "0.15.0",
   "description": "Sync an Obsidian vault through OzoneAsai's self-hosted Relay fork.",
   "author": "OzoneAsai",
